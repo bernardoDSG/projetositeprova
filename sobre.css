@@ -1,0 +1,20 @@
+body{
+   background-color: brown;
+}
+footer{
+    background-color: chocolate;
+    text-align: center;
+    padding: 10px;
+    position: down;
+    width: 100;
+    bottom: 0%;
+}
+h1{
+   border: solid;
+   border-radius: 10px;
+   text-align: center;
+   color: chocolate;
+   font-family: cursive;
+  
+}
+
