@@ -32,7 +32,10 @@ background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20221
     
  }
  .estiloIntroducao{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 80px;
+
  }
  
  .parteMeio{
