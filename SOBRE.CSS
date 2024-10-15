@@ -1,6 +1,37 @@
 .body{
-    background-color: aqua;
+   background-image: url(hacker-hacking.jpg );
 }
-.h1{
-    color: brown;
+footer{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    position: down;
+    width: 100;
+    bottom: 0%;
+}
+h1{
+   border: solid;
+   border-radius: 10px;
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-family: cursive;
+  
+}
+
+h2{
+    color: aliceblue;
+}
+.comtainer{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+text{
+    float: left;
+    width: 30%;background: rgb(230,227,4);
+    background: linear-gradient(232deg, rgba(230,227,4,0.8939950980392157) 48%, rgba(254,255,0,1) 100%);
+    margin: 10px 1.5%;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
