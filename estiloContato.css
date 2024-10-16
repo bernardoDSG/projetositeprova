@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.tituloContato{
+    width: 500px;
+    height: 120px;
+    margin: 0 auto;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url("https://t4.ftcdn.net/jpg/04/33/16/71/360_F_433167186_bnAhGZ4fANlmExoSXw4EagCsfVbmAPIc.jpg");
+
+}
+.estiloTituloContato{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+body{
+    background-image: url("https://wallpapers.com/images/hd/hacking-background-bryw246r4lx5pyue.jpg");
+}
