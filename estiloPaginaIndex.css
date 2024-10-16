@@ -117,13 +117,18 @@ border: solid 5px #1b1919
    width: 500px;
    background-color: orange;
    margin: 0 auto;
+   text-align: center;
+   padding-top: 40px ;
+   background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20221206/pngtree-red-sale-luxury-gradient-geometric-light-image_1494214.jpg");
+   border: solid 5px #1b1919;
 }
 .botaoSaiba
 {
-  font-family: Arial;
-  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  
   font-weight: bold;
-  font-size: 20px;
+  font-size: 50px;
   text-decoration: none;
 
 
@@ -137,4 +142,21 @@ border: solid 5px #1b1919
 
 }
 
+.rodape{
+   height: 100px;
+   width: 1250px;
+   background-color:grey;
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 60px ;
+   background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20221206/pngtree-red-sale-luxury-gradient-geometric-light-image_1494214.jpg");
+   border: solid 5px #1b1919;
+
+}
+
+.estiloRodape{
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
   
