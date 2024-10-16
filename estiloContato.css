@@ -10,6 +10,7 @@
     text-align: center;
     padding-top: 30px;
     background-image: url("https://t4.ftcdn.net/jpg/04/33/16/71/360_F_433167186_bnAhGZ4fANlmExoSXw4EagCsfVbmAPIc.jpg");
+    border: solid 5px #ffffff;
 
 }
 .estiloTituloContato{
@@ -20,4 +21,46 @@
 
 body{
     background-image: url("https://wallpapers.com/images/hd/hacking-background-bryw246r4lx5pyue.jpg");
+}
+
+.containerFormulario{
+    
+    margin: 0 auto;
+    border: solid 5px #ffffff;
+    width: 1000px;
+    height: 685px;
+    background-image: url("https://t4.ftcdn.net/jpg/04/33/16/71/360_F_433167186_bnAhGZ4fANlmExoSXw4EagCsfVbmAPIc.jpg");
+
+}
+
+label{
+    font-size: 50px;
+    color: white;
+}
+.alinharFormulario{
+    text-align: center;
+}
+
+.contatoEmpresa{
+    height: 100px;
+    width: 800px;
+    
+    position: relative;
+    top: 150px;
+    margin: 0 auto;
+}
+
+.estiloTextoContato{
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.estiloInput{
+    width: 300px;
+    height: 30px;
+}
+
+.estiloInputBotao{
+    width: 100px;
+    height: 50px;
 }

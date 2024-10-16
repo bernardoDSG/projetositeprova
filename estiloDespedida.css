@@ -1,0 +1,17 @@
+body{
+    background: url("https://p7.hiclipart.com/preview/145/1006/463/anonymous-hacker-cyberattack-computer-security-anonymous-mask.jpg") no-repeat;
+    background-size: cover;
+}
+
+.containerDespedida{
+    height: 100px;
+    width: 600px;
+  
+    margin: 0 auto;
+    text-align: center;
+}
+.estiloTexto{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: wheat;
+}
