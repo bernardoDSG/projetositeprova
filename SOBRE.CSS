@@ -27,7 +27,7 @@ body {
     left: 450px;
     border: 2px solid black;
     border-radius: 50px;
-    margin-left: 225px;
+    margin-left: 8%;
 }
 
 nav li {
@@ -71,4 +71,10 @@ footer {
     padding: 10px;
     text-align: center;
     clear: both;
+}
+
+.estiloRodape{
+   margin: 0 auto;
+   color: white;
+   
 }
