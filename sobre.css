@@ -21,13 +21,9 @@ body {
     text-align: center;
     padding-bottom: 25px;
     padding-right: 5px;
-    position: relative; ;
-    width: 400px;
-    height: 30px;
-    left: 450px;
     border: 2px solid black;
     border-radius: 50px;
-    margin-left: 8%;
+    position: flex center
 }
 
 nav li {
@@ -76,5 +72,12 @@ footer {
 .estiloRodape{
    margin: 0 auto;
    color: white;
+  
    
+}
+
+.divLogoRodape{
+position: flex center;
+
+
 }
